@@ -55,8 +55,7 @@ El foco está en dominar el **posicionamiento con Flexbox**, la **organización 
 
 Una vez publicado en **GitHub Pages**, podrás acceder aquí:
 
-🔗 **[Ver página desplegada](https://tuusuario.github.io/iguana-page/)**  
-*(actualiza el enlace con tu URL real una vez hecho el deploy)*
+🔗 **[Ver página desplegada](https://nachorob.github.io/Iguana-Page/)**   
 
 ---
 
