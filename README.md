@@ -44,8 +44,8 @@ El foco está en dominar el **posicionamiento con Flexbox**, la **organización 
 |--------------|------------|
 | ![HTML5](https://skillicons.dev/icons?i=html) | Estructura semántica de la página |
 | ![CSS3](https://skillicons.dev/icons?i=css) | Estilos y posicionamiento con Flexbox |
-| ![Font Awesome](https://skillicons.dev/icons?i=fontawesome) | Íconos de características visuales (ej. `far fa-eye`, `fab fa-hand-peace`, `fas fa-paint-brush`) |
-| ![Prettier](https://skillicons.dev/icons?i=prettier) | Formateo y limpieza del código (Prettier) |
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?logo=fontawesome&logoColor=white&style=for-the-badge)
+| ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge)
 | ![Git](https://skillicons.dev/icons?i=git) | Control de versiones |
 | ![GitHub](https://skillicons.dev/icons?i=github) | Hosting y deploy mediante Pages |
 
