@@ -80,8 +80,8 @@ main img {
 }
 
 .icono i {
-    font-size: 50px; /* ← Tamaño del ícono */
-    color: white; /* ← Color del ícono */
+    font-size: 50px;
+    color: white; 
     margin-bottom: 15px;
 }
 
